@@ -1,0 +1,4 @@
+//Changelog
+
+1.12 	Fixed issue where lightbox background was not completely gray. 
+	Some areas on right were white, especially in explorer.
